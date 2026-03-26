@@ -1,3 +1,7 @@
 # adobe广告校验弹窗
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,omtrdc.com
+DOMAIN-SUFFIX,genuine.adobe.com
+DOMAIN-SUFFIX,adobe-genuine-service.adobe.com
+DOMAIN-SUFFIX,lcs-cops.adobe.com
+DOMAIN-SUFFIX,p13n.adobe.com
